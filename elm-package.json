@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
-    "summary": "Build an App in Elm with JWT Authentication and an API",
-    "repository": "https://github.com/auth0-blog/elm-with-jwt-api.git",
+    "summary": "Elm + polymer",
+    "repository": "https://github.com/tazzo/elm-polymer-01",
     "license": "MIT",
     "source-directories": [
         "src",

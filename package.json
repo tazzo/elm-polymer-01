@@ -1,25 +1,25 @@
 {
-  "name": "elm-app-jwt-api",
+  "name": "elm-polymer-01",
   "version": "1.0.0",
-  "author": "Auth0",
-  "description": "Authenticating an Elm App with JWT",
+  "author": "tazzo",
+  "description": "Elm Polymer",
   "main": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/auth0-blog/elm-app-jwt-api.git"
+    "url": "https://github.com/tazzo/elm-polymer-01"
   },
   "keywords": [
-    "elm"
+    "elm","polymer","webcomponents"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/auth0-blog/elm-app-jwt-api/issues"
+    "url": "https://github.com/tazzo/elm-polymer-01"
   },
   "scripts": {
     "dev": "gulp",
     "build": "gulp build"
   },
-  "homepage": "https://github.com/auth0-blog/elm-app-jwt-api",
+  "homepage": "https://github.com/tazzo/elm-polymer-01",
   "dependencies": {},
   "devDependencies": {
     "gulp": "^3.9.0",
