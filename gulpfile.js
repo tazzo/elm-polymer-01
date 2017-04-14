@@ -32,7 +32,7 @@ gulp.task('static', function() {
 
 // Move bower assets to dist
 gulp.task('bower', function() {
-    return gulp.src(paths.bower)
+    return gulp.src(paths.bower) 
         .pipe(plumber())
         .pipe(gulp.dest(paths.dest+'/bower_components'));
 });
