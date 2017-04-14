@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Elm + polymer",
-    "repository": "https://github.com/tazzo/elm-polymer-01",
+    "repository": "https://github.com/tazzo/elm-polymer-01.git",
     "license": "MIT",
     "source-directories": [
         "src",

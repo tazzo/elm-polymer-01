@@ -6,7 +6,7 @@
   "main": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tazzo/elm-polymer-01"
+    "url": "https://github.com/tazzo/elm-polymer-01.git"
   },
   "keywords": [
     "elm","polymer","webcomponents"
